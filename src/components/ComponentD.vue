@@ -1,0 +1,3 @@
+<template>
+    Component D
+</template>
